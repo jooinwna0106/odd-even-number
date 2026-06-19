@@ -1,0 +1,16 @@
+[theme]
+
+# 메인 버튼 색상
+primaryColor = "#00E676"
+
+# 전체 배경
+backgroundColor = "#0B0F14"
+
+# 입력창, 사이드바, 카드 배경
+secondaryBackgroundColor = "#161B22"
+
+# 글자 색상
+textColor = "#FFFFFF"
+
+# 폰트
+font = "sans serif"
